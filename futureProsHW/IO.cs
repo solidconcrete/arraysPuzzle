@@ -39,7 +39,7 @@ namespace futureProsHW
                 }
 
             }
-            searchInHistory(arrays);
+            searchInHistory (arrays);
         }
         public static void sendToSolve(List<int[]> arrays)
         {

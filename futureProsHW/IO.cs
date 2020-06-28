@@ -60,7 +60,7 @@ namespace futureProsHW
                 writeToFile(string.Join(',', arr));
                 Console.WriteLine("]");
                 showResults(result);
-                Pathfinder.cleanBest();
+                Pathfinder.cleanBest ();
             }
         }
         public static void showResults(List<Move> result)

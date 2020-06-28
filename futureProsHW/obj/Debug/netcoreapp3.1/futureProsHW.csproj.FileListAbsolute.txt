@@ -1,0 +1,13 @@
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.exe
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.deps.json
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.runtimeconfig.json
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.runtimeconfig.dev.json
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.dll
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\bin\Debug\netcoreapp3.1\futureProsHW.pdb
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.csprojAssemblyReference.cache
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.AssemblyInfoInputs.cache
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.AssemblyInfo.cs
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.csproj.CoreCompileInputs.cache
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.dll
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.pdb
+C:\Users\Alexander - PC\Documents\projects\C#\futureProsHW\futureProsHW\obj\Debug\netcoreapp3.1\futureProsHW.genruntimeconfig.cache

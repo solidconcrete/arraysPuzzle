@@ -43,13 +43,13 @@ namespace futureProsHW
         }
         public static void sendToSolve(List<int[]> arrays)
         {
-            Experiment experiment = new Experiment();
+            Pathfinder Pathfinder = new Pathfinder();
             List<Move> moves = new List<Move>();
             List<Move> result = new List<Move>();
             //cycling through given arrays
             foreach (var arr in arrays)
             {
-                result = experiment.solveProblem(arr, 0, 1, moves);
+                result = Pathfinder.solveProblem(arr, 0, 1, moves);
                 Console.Write("[ ");
                 //cycling through elements of each array
                 for (int i = 0; i < arr.Length; i++)
@@ -60,7 +60,7 @@ namespace futureProsHW
                 writeToFile(string.Join(',', arr));
                 Console.WriteLine("]");
                 showResults(result);
-                experiment.cleanBest();
+                Pathfinder.cleanBest();
             }
         }
         public static void showResults(List<Move> result)

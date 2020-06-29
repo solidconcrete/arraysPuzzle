@@ -6,6 +6,7 @@ The goal is to find the most optimal way to the end of the array.
 ~~~~~~~~~LAUNCHING~~THE~~APP~~~~~~~~~~~
 In order to run it without compiling, it's enough to just download futureProsHW-master\futureProsHW\obj\Debug\netcoreapp3.1 directory
 and run futureProsHW.exe.
+Visual studio must be installed in order to run the application
 Tested only on Windows 10
 
 ~~~~~~~~~~~HOW~TO~USE~IT~~~~~~~~~~~~~

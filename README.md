@@ -13,6 +13,7 @@ Enter an array of numbers like this [x, x, x, x, x, x]
 where x is any number.
 It is also possible to count several arrays at once by feeding the app with arrays like this [x, x, x, x, x][x, x, x, x, x] and so on.
 If data is fed not like shown before, the application will not try to recognize the input and will wait for another input.
+To show puzzle history, just type "history" and press ENTER
 
 ~~~~~~~~~~~HOW~IT~WORKS~~~~~~~~~~~~~~
 It recursively counts every possible winning combination and then shows what is the fastest way to solve this puzzle.
